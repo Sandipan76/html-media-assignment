@@ -1,0 +1,64 @@
+Q1. 
+(Ans:)
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Physics"<<endl<<"Wallah";
+}
+
+
+
+
+Q2.
+(Ans.)
+#include<iostream>
+using namespace std;
+int main()
+{
+    int x=5,y=5;
+    cout<<x+y;
+}
+
+
+
+
+Q3.
+(Ans.)
+int - 4byte
+bool- 1byte
+float- 4byte
+
+
+
+Q4.
+(Ans.)
+6 4
+
+
+
+
+Q5.
+(Ans.)
+#include<iostream>
+using namespace std;
+int main()
+{
+    float c,pi=3.14,r=10;
+    c=2*pi*r;
+    cout<<c;
+}
+
+
+Output:
+62.8
+
+
+
+
+
+Q6.
+(Ans.)
+1.FLOAT
+2. _FLOAT
